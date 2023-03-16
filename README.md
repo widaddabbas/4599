@@ -1,2 +1,2 @@
 # 4599
-Some calculations using Mathematica's KnotTheory package
+Some calculations (calculations.nb) using Mathematica's KnotTheory package (KnotTheory.zip)
